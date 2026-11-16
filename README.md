@@ -1,5 +1,7 @@
 # AI crawlers and robots.txt (2026)
 
+![AI crawlers and robots.txt: GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot](images/cover.png)
+
 A plain list of the 20 AI crawlers that matter in 2026, what each one does, and copy-paste `robots.txt` templates for the three choices most websites make.
 
 Maintained by [CodedSEO](https://codedseo.com). Want to check your own site? Our free [AI Visibility Checker](https://codedseo.com/tools/ai-visibility-checker) tests all 20 bots live, including firewall blocks that robots.txt can't show you.
@@ -51,6 +53,10 @@ Many sites allow AI bots in robots.txt but still block them at the firewall (Clo
 When we tested two large sites on 16 Nov 2026 with the [AI Visibility Checker](https://codedseo.com/tools/ai-visibility-checker):
 - **nytimes.com** allowed 4 of 20 AI bots in robots.txt, and only 2 of 9 live test visits got through.
 - **hubspot.com** allowed all 20, and all 9 live visits got through.
+
+![nytimes.com AI visibility check: 4 of 20 AI bots allowed, 2 of 9 live visits got through](images/nytimes-ai-check.jpg)
+
+![hubspot.com check: all 20 AI bots allowed, 9 of 9 live visits got through](images/hubspot-ai-check.jpg)
 
 ## How to check your site
 
